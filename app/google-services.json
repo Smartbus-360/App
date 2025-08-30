@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716615782359",
+    "project_id": "smartbus360-fb7ab",
+    "storage_bucket": "smartbus360-fb7ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716615782359:android:9f3a4fcd164c60cdb94592",
+        "android_client_info": {
+          "package_name": "com.smartbus360.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTmt5aIBnd3q0Oyq596LzPWV1-jR-ir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716615782359:android:ea5638e62d4dcd95b94592",
+        "android_client_info": {
+          "package_name": "com.smartbus360.app.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTmt5aIBnd3q0Oyq596LzPWV1-jR-ir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
